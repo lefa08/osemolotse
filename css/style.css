@@ -3336,6 +3336,7 @@ label {
 /*# sourceMappingURL=style.css.map */
 
 }
+
 #cicle-arrow {
   height:400px;
 }
@@ -3355,13 +3356,13 @@ a, a:hover, a:focus, a:active {
     text-decoration: none;
     outline: none;
 }
-ul {
+/*ul {
     margin: 0;
     padding: 0;
     list-style: none;
 }.bg-gray {
     background-color: #f9f9f9;
-}
+}*/
 
 .site-heading h2 {
   display: block;
