@@ -219,7 +219,7 @@ a:focus {
 }
 
 .bg-overlay:after {
-  background-color: rgba(0, 0, 0, 0.8);
+  background-color: #252525;
   z-index: 0;
   position: absolute;
   content: "";
@@ -715,7 +715,7 @@ ul.navbar-nav > li.active > a {
 }
 
 .header-two .logo img {
-  height: 70px;
+  height: 75px;
 }
 
 /* header right */
@@ -2360,6 +2360,9 @@ img.testimonial-thumb {
 /* Footer about us */
 .footer-logo {
   margin-bottom: 25px;
+  height: 75px;
+  width: auto;
+
 }
 
 /* Footer social */
