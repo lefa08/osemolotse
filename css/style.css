@@ -3611,8 +3611,8 @@ a, a:hover, a:focus, a:active {
 
 
 .accordion {
-  /*background-color: #eee;
-  color: #444;*/
+  background-color: #fff;
+  color: #444;
   cursor: pointer;
   padding: 1px;
   width: 100%;
