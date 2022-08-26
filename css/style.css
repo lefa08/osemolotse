@@ -3611,8 +3611,8 @@ a, a:hover, a:focus, a:active {
 
 
 .accordion {
-  background-color: #eee;
-  color: #444;
+  /*background-color: #eee;
+  color: #444;*/
   cursor: pointer;
   padding: 1px;
   width: 100%;
@@ -3623,10 +3623,10 @@ a, a:hover, a:focus, a:active {
   transition: 0.4s;
 }
 
- .accordion:hover {
+/* .accordion:hover {
   background-color: #ccc; 
 }
-
+*/
 .panel {
   padding: 0 18px;
   display: none;
@@ -3644,3 +3644,5 @@ button.accordion:after {
 /**, *:before, *:after {
     box-sizing: inherit;
 }*/
+
+
